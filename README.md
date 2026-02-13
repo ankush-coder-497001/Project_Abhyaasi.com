@@ -1,8 +1,8 @@
-# Project Name – Full Stack Application
+# Project Name – Abhyaasi.com
 
-This project is divided into three separate repositories: Client, Server, and Admin.
-All parts together form one complete full-stack application.
+**Abhyasi.com** is a structured e-learning platform designed to empower students, especially from Tier-3 colleges, to **learn programming and computer science in a practical, hands-on way**. The platform brings all resources, practice challenges, mini-projects, and interview preparation into a **single professional interface**—eliminating scattered content across the internet.
 
+**Key Goal:** Help students learn efficiently, build projects, and become job-ready.
 ## 🔗 Repository Links
 
 - Client Repository: https://github.com/ankush-coder-497001/client_abhyaasi.com
